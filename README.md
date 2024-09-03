@@ -64,10 +64,6 @@ Please refer to the [project documentation](docs/project_report.pdf) for detaile
 
 ![accuracy_by_time](/graphs/accuracybytime.png)
 
-## Authors
-
-This project was 
-
 ## Acknowledgments
 
 - **[@Scikit-learn](https://scikit-learn.org/)**
